@@ -18,5 +18,12 @@ Video demontrasi penggunaan My Chat App bisa dilihat disini : Klik disini
 
 ## Screen Shots 
 
+
+<p align="center">
+  <img height="300" src="SS1.jpeg">
+  &nbsp &nbsp
+  <img height="300" src="SS2.jpeg">
+</p>
+
 ![alt text](https://github.com/adirhmn/my-chat-app-with-fcm/blob/main/Screenshots/SS1.jpeg?raw=true)
 ![alt text](https://github.com/adirhmn/my-chat-app-with-fcm/blob/main/Screenshots/SS2.jpeg?raw=true)
