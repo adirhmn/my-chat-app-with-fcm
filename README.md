@@ -28,4 +28,6 @@ Video demontrasi penggunaan My Chat App bisa dilihat disini : https://youtu.be/j
   <img height="500" src="Screenshots/SS1.jpeg">
   &nbsp &nbsp
   <img height="500" src="Screenshots/SS2.jpeg">
+  &nbsp &nbsp
+  <img height="500" src="Screenshots/SS3.jpeg">
 </p>
