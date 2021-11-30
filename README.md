@@ -13,7 +13,7 @@ Ada juga fitur recent chat supaya bisa membuka chat yang sebelumnya secara cepat
 
 ## Useful Links
 
-Video demontrasi penggunaan My Chat App bisa dilihat disini : Klik disini
+Video demontrasi penggunaan My Chat App bisa dilihat disini : https://youtu.be/jxh0O7pda5U
 
 
 ## Screen Shots 
