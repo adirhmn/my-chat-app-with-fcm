@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "689915962541",
+    "project_id": "mychatapp-adr",
+    "storage_bucket": "mychatapp-adr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689915962541:android:5a87d4aefe246b8a061224",
+        "android_client_info": {
+          "package_name": "com.adidimasrizal.mychatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689915962541-l5lda72p2cdum1i22p908b6ejtnrnv82.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adidimasrizal.mychatapp",
+            "certificate_hash": "5a2bfe6df75c20c9892e7dff5341b6ea24fb2f79"
+          }
+        },
+        {
+          "client_id": "689915962541-7hq0qstkft5s19r16qp6kfdqv4cnuorj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxxkpLiL6Tol2PLMkgZ7ycChgvEBsVBfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689915962541-7hq0qstkft5s19r16qp6kfdqv4cnuorj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
