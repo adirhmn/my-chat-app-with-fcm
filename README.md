@@ -11,9 +11,10 @@
 My Chat App dapat melakukan chatting antara dua orang secara real time.
 Ada juga fitur recent chat supaya bisa membuka chat yang sebelumnya secara cepat.
 
-## Source Code
-Berikut ini sourcode dari aplikasi MyChat : https://github.com/adirhmn/my-chat-app-with-fcm/tree/main/MyChat%20App
-Berikut ini sourcode backend(server) : https://github.com/adirhmn/my-chat-app-with-fcm/tree/server
+## Source Code & APK 
+- Berikut ini sourcode dari aplikasi MyChat : https://github.com/adirhmn/my-chat-app-with-fcm/tree/main/MyChat%20App
+- Berikut ini sourcode backend(server) : https://github.com/adirhmn/my-chat-app-with-fcm/tree/server
+- Berikut ini file APK yang dapat diinstall : https://github.com/adirhmn/my-chat-app-with-fcm/tree/main/APK
 
 ## Useful Links
 
