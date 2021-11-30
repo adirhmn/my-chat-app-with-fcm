@@ -10,6 +10,7 @@
 
 My Chat App dapat melakukan chatting antara dua orang secara real time.
 Ada juga fitur recent chat supaya bisa membuka chat yang sebelumnya secara cepat.
+Terakhir ada fitur "Friend list" yang berisi kontak-kontak yang bisa dihubungi.
 
 ## Source Code & APK 
 - Berikut ini sourcode dari aplikasi MyChat : https://github.com/adirhmn/my-chat-app-with-fcm/tree/main/MyChat%20App
